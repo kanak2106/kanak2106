@@ -1,7 +1,7 @@
 ### Namaste 🙏
 
 I'm Kanak Gautam 🎀
-A first-year electrical engineering student😃 and a keen learner who loves connecting and improvising herself✨.
+A second-year electrical engineering student😃 and a keen learner who loves connecting and improvising herself✨.
 My interest lies in web development💻 and exploring new horizons of technology🌎.
 
 - 🌱 I’m currently learning **Web Development**
