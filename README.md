@@ -7,10 +7,6 @@ My interest lies in web development💻 and exploring new horizons of technology
 
 
 
-
- 
-- 🔭 I’m currently working on **RESOURCES**
-
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **kanakgautam2106@gmail.com**
